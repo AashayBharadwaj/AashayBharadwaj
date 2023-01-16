@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AashayBharadwaj
 - 👀 I’m aspiring to be a Data Analyst
 - 🌱 I’m currently mastering SQL,Python,R and Tableau for Data Analysis.
-- 💞️ I’m looking to collaborate on Analytics projects preferably from the crypto industry.
+- 💞️ I’m looking to collaborate on Analytics projects.
 - 📫 How to reach me ..... You could drop me a mail at aashay.bharadwaj@gmail.com
 
 <!---

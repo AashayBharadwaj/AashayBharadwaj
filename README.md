@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AashayBharadwaj
-- 👀 I’m aspiring to be a Data Analyst
-- 🌱 I’m currently mastering SQL,Python,R and Tableau for Data Analysis.
-- 💞️ I’m looking to collaborate on Analytics projects.
+- 👀 I’m aspiring to be a Product Manager.
+- 🏫 I'm currently pursuing my Master's Degree from The University of Texas at Dallas majoring in Information Technology and Mangement.
+- 🌱 I’ve recently interned as a Product Manager for an Ed Tech startup and I've also collaborated with a startup to build a new product for my University.
 - 📫 How to reach me ..... You could drop me a mail at aashay.bharadwaj@gmail.com
 
 <!---
